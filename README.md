@@ -1,6 +1,3 @@
-ChatGPT said:
-Here’s a clean and professional README format that you can customize for your Student Marksheet JDBC Connectivity Project in Java:
-
 📊 Student Marksheet Management System
 📌 Table of Contents
 Project Overview
